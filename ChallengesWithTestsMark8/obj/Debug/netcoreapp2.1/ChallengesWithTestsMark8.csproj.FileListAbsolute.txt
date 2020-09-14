@@ -53,3 +53,15 @@ C:/Users/Chip/source/repos/Mark8ChallengesWithTests/ChallengesWithTestsMark8/obj
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.dll
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.pdb
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.deps.json
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.runtimeconfig.dev.json
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.dll
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.pdb
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.csprojAssemblyReference.cache
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.dll
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.pdb
+/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.genruntimeconfig.cache

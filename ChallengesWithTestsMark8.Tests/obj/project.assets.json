@@ -5870,23 +5870,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/michaeldoyle/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/juliannorton/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+      "projectUniqueName": "/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
       "projectName": "ChallengesWithTestsMark8.Tests",
-      "projectPath": "/Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
-      "packagesPath": "/Users/michaeldoyle/.nuget/packages/",
-      "outputPath": "/Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/",
+      "projectPath": "/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+      "packagesPath": "/Users/juliannorton/.nuget/packages/",
+      "outputPath": "/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/michaeldoyle/.config/NuGet/NuGet.Config"
+        "/Users/juliannorton/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -5897,8 +5893,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
-              "projectPath": "/Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj"
+            "/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
+              "projectPath": "/Users/juliannorton/Desktop/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj"
             }
           }
         }
